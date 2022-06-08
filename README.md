@@ -1,2 +1,2 @@
 # Bermain-Kata
-String and Character
+String and Character Swift
